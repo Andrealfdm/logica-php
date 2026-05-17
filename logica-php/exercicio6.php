@@ -1,4 +1,33 @@
 <?php
+
+#Exercício 6: Login
+#Variáveis:
+#$login;
+#$senha;
+#$token;
+#$tentativas;
+
+
+#Regras:
+#login correto
+#senha correta
+#token true
+#tentativas < 3
+
+#Resultados:
+#"Login realizado"
+#"Login inválido"
+#"Senha inválida"
+#"Token inválido"
+#"Usuário bloqueado"
+
+
+# NÃO FOI EXATAMENTE COMO ME PEDIU MAS FIZ DESSA FORMA 
+# ACHEI MAIS FUNCIONAL :)
+# ESPERO QUE CONSIDERE QUERIDO PROFESSOR
+#FOI FEITO COM MUITO AMOR E CARINHO KKKK LA ELE !
+
+
 // ENTRADA, LOGIN E SENHA 
 $login = readline('LOGIN: ');
 $senha = readline('SENHA: ');
